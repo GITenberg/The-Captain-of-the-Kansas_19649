@@ -849,7 +849,7 @@ wandering to the purple and gold of the far-off mountains.
 "But you are English.  You are therefore at home on the rolling deep,"
 murmured Monsieur de Poincilit, confidentially.  She did not endeavor
 to interpret his expressive glance, though he seemed to convey more
-that he said.
+than he said.
 
 "Not so much at home at sea as you are in my language," she replied,
 and she turned to Dr. Christobal, whom she had already known slightly
@@ -1352,7 +1352,7 @@ the moment was too good to be lost, so M. de Poincilit, in a nice light
 tenor, told how
 
   Il était un roi d'Yvetot
-    Pen connu dans l'histoire,
+    Peu connu dans l'histoire,
   Se levant tard, se couchant tôt,
     Dormant fort bien sans gloire.
 
